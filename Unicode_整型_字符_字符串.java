@@ -30,7 +30,7 @@ public class Test3 {
 		System.out.println('0' + '0'); // output:96
 		System.out.println('0' + "0"); // output:00
 		System.out.println("0" + "0"); // output:00
-
+		
 		System.out.println();
 		System.out.println(0 == '0'); // output:false
 		System.out.println(48 == '0'); // output:true
