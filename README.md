@@ -1,5 +1,5 @@
 # LearnJava
-[https://github.com/bamboodew/LearnJava/edit/master/README.md#4indexof()的使用方法](4、indexof()的使用方法)
+[](https://github.com/bamboodew/LearnJava/edit/master/README.md#4indexof()的使用方法)
 
 1、main中的arges的含义？
 
