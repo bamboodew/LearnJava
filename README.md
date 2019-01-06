@@ -21,7 +21,7 @@ While using those methods, values passed to those variables are called arguments
 ## 3、.class和.java的区别？
 
 ## 4、indexof()的使用方法
-```
+```java
 private static void testIndexOf() { 
     String string = "aaa456ac";  
     //查找指定字符是在字符串中的下标。在则返回所在字符串下标；不在则返回-1.  
@@ -51,7 +51,7 @@ private static void testIndexOf() {
 ```
 
 ## 5、String和String[]的length的区别
-```
+```java
 String s1;
 String[] s2;
 s1.length(); // 字符串需要括号
