@@ -19,6 +19,7 @@ While using those methods, values passed to those variables are called arguments
 当调用方法时，传给变量的值称为引数.（有时argument被翻译为“引数“）
 
 ## 3、.class和.java的区别？
+![头像](https://gss0.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/6f061d950a7b02086a910e736fd9f2d3562cc8c3.jpg)
 
 ## 4、indexof()的使用方法
 ```java
