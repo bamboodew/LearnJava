@@ -1,7 +1,8 @@
 # LearnJava
 [123](https://github.com/bamboodew/LearnJava/blob/master/README.md#4indexof的使用方法)
 
-# 1、main中的arges的含义？
+## 1、main中的arges的含义
+[main方法参数String[] args的使用](https://www.cnblogs.com/xy-hong/p/7197725.html)
 
 ## 2、parameters和arges的区别？
 11/30/2011MASTER  LEAVE A COMMENT
@@ -18,9 +19,9 @@ While defining method, variables passed in the method are called parameters.
 While using those methods, values passed to those variables are called arguments.
 当调用方法时，传给变量的值称为引数.（有时argument被翻译为“引数“）
 
-### 3、.class和.java的区别？
+## 3、.class和.java的区别？
 
-# 4、indexof()的使用方法
+## 4、indexof()的使用方法
 ```java
 private static void testIndexOf() { 
     String string = "aaa456ac";  
