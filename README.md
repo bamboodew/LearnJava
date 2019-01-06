@@ -1,5 +1,5 @@
 # LearnJava
-Java学习日志
+[# 4、indexof()的使用方法](Java学习日志)
 
 1、main中的arges的含义？
 
@@ -20,7 +20,7 @@ While using those methods, values passed to those variables are called arguments
 
 3、.class和.java的区别？
 
-4、indexof()的使用方法
+# 4、indexof()的使用方法
 ```java
 private static void testIndexOf() { 
     String string = "aaa456ac";  
