@@ -1,5 +1,4 @@
 # LearnJava
-[123](https://github.com/bamboodew/LearnJava/blob/master/README.md#4indexof的使用方法)
 
 ## 1、main中的arges的含义
 [main方法参数String[] args的使用](https://www.cnblogs.com/xy-hong/p/7197725.html)
