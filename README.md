@@ -1,15 +1,15 @@
 # LearnJava
 
 ## 目录
-[1.main中的arges的含义]()
+[1.main中的arges的含义](https://github.com/bamboodew/LearnJava/blob/master/README.md#1main中的arges的含义)
 
-[2.parameters和arges的区别]()
+[2.parameters和arges的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#2parameters和arges的区别)
 
-[3..class和.java的区别]()
+[3..class和.java的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#3class和.java的区别)
 
-[4.indexof()的使用方法]()
+[4.indexof()的使用方法](https://github.com/bamboodew/LearnJava/blob/master/README.md#4indexof的使用方法)
 
-[5.String和String[]的length的区别]()
+[5.String和String[]的length的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#5String和String的length的区别)
 
 ## 1.main中的arges的含义
 [main方法参数String[] args的使用](https://www.cnblogs.com/xy-hong/p/7197725.html)
