@@ -1,5 +1,5 @@
 # LearnJava
-[# 4、indexof()的使用方法](Java学习日志)
+[Java学习日志](# Java学习日志)
 
 1、main中的arges的含义？
 
