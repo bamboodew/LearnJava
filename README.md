@@ -5,7 +5,7 @@
 
 [2.parameters和arges的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#2parameters和arges的区别)
 
-[3..class和.java的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#3class和.java的区别)
+[3..class和.java的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#3class和java的区别)
 
 [4.indexof()的使用方法](https://github.com/bamboodew/LearnJava/blob/master/README.md#4indexof的使用方法)
 
