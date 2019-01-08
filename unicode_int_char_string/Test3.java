@@ -35,7 +35,7 @@ public class Test3 {
 		System.out.println(0 == '0'); // output:false
 		System.out.println(48 == '0'); // output:true
 		System.out.println(Character.toString('0') == Character.toString('0'));
-		// output:false; String的地址不同
+		// output:false; String的地址/索引/目录/指针不同
 		System.out.println(Character.toString('0').equals(Character.toString('0')));
 		// output:true; String的值相同
 
