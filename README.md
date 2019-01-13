@@ -11,7 +11,7 @@
 
 [5.String和String[]的length的区别](https://github.com/bamboodew/LearnJava/blob/master/README.md#5String和String的length的区别)
 
-[6.java StringBuffer的length()和capacity()方法比较](https://github.com/bamboodew/LearnJava/blob/master/README.md#6javaStringBuffer的length和capacity方法比较)
+[6.java StringBuffer的length()和capacity()方法比较](https://github.com/bamboodew/LearnJava/blob/master/README.md#6java-StringBuffer的length和capacity方法比较)
 
 
 ## 1.main中的arges的含义
@@ -90,7 +90,7 @@ s2.length; // 数组不需要括号
 ```
 
 ## 6.java StringBuffer的length()和capacity()方法比较
-https://blog.csdn.net/wxgxgp/article/details/55657078
+[StringBuffer的length()和capacity()方法比较](https://blog.csdn.net/wxgxgp/article/details/55657078)
 
 StringBuffer的的初始大小为（16+初始字符串长度）即capacity=16+初始字符串长度。
 
