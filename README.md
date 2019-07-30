@@ -16,6 +16,7 @@
 [7.JAVA_Eclipse_WindowBuilder中给JPanel加标题头](https://github.com/bamboodew/LearnJava/blob/master/README.md#7JAVA_Eclipse_WindowBuilder中给JPanel加标题头)
 
 
+
 ## 1.main中的arges的含义
 [main方法参数String[] args的使用](https://www.cnblogs.com/xy-hong/p/7197725.html)
 
@@ -100,10 +101,9 @@ StringBuffer的的初始大小为（16+初始字符串长度）即capacity=16+�
 
 ## 7.JAVA_Eclipse_WindowBuilder中给JPanel加标题头
 ```java
-panel.setLayout(new GridLayout(3, 4, 0, 70));
-//关键JPanel标头
-Border titleBorder1 = BorderFactory.createTitledBorder("会员基本信息");
-panel2.setBorder(titleBorder1);
+Jpanel panel = new JPane();
+Border titleBorder1 = BorderFactory.createTitledBorder("会员基本信息"); //关键JPanel标头
+panel.setBorder(titleBorder1);
 ```
 --------------------- 
 作者：Mv8Yang 
