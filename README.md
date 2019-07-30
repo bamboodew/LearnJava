@@ -13,6 +13,8 @@
 
 [6.java StringBuffer的length()和capacity()方法比较](https://github.com/bamboodew/LearnJava/blob/master/README.md#6java-StringBuffer的length和capacity方法比较)
 
+[7.JAVA_Eclipse_WindowBuilder中给JPanel加标题头](https://github.com/bamboodew/LearnJava/blob/master/README.md#7JAVA_Eclipse_WindowBuilder中给JPanel加标题头)
+
 
 ## 1.main中的arges的含义
 [main方法参数String[] args的使用](https://www.cnblogs.com/xy-hong/p/7197725.html)
@@ -95,3 +97,14 @@ s2.length; // 数组不需要括号
 StringBuffer的的初始大小为（16+初始字符串长度）即capacity=16+初始字符串长度。
 
 一旦length大于capacity时，capacity便在前一次的基础上加1后倍增。
+
+## 7.JAVA_Eclipse_WindowBuilder中给JPanel加标题头
+panel2.setLayout(new GridLayout(3, 4, 0, 70));
+        //关键JPanel标头
+        Border titleBorder1 = BorderFactory.createTitledBorder("会员基本信息");
+        panel2.setBorder(titleBorder1);
+--------------------- 
+作者：Mv8Yang 
+来源：CSDN 
+原文：https://blog.csdn.net/Mv8Yang/article/details/45566097 
+版权声明：本文为博主原创文章，转载请附上博文链接！
