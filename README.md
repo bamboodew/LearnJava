@@ -15,6 +15,10 @@
 
 [7.JAVA_Eclipse_WindowBuilder中给JPanel加标题头](https://github.com/bamboodew/LearnJava/blob/master/README.md#7JAVA_Eclipse_WindowBuilder中给JPanel加标题头)
 
+[8.JAVA_Eclipse_WindowBuilder修改块颜色](https://github.com/bamboodew/LearnJava/blob/master/README.md#8JAVA_Eclipse_WindowBuilder修改块颜色)
+
+
+
 
 
 ## 1.main中的arges的含义
@@ -122,3 +126,8 @@ TitledBorder.CENTER,
 TitledBorder.TOP,
 new java.awt.Font("宋体",0,26)));//宋体，普通，26号字，把中间的0改成1就是加粗
 ```
+
+## 8.JAVA_Eclipse_WindowBuilder修改块颜色
+opaque改为true
+foreground：字体颜色
+background：背景颜色
