@@ -99,10 +99,12 @@ StringBuffer的的初始大小为（16+初始字符串长度）即capacity=16+�
 一旦length大于capacity时，capacity便在前一次的基础上加1后倍增。
 
 ## 7.JAVA_Eclipse_WindowBuilder中给JPanel加标题头
-panel2.setLayout(new GridLayout(3, 4, 0, 70));
-        //关键JPanel标头
-        Border titleBorder1 = BorderFactory.createTitledBorder("会员基本信息");
-        panel2.setBorder(titleBorder1);
+```java
+panel.setLayout(new GridLayout(3, 4, 0, 70));
+//关键JPanel标头
+Border titleBorder1 = BorderFactory.createTitledBorder("会员基本信息");
+panel2.setBorder(titleBorder1);
+```
 --------------------- 
 作者：Mv8Yang 
 来源：CSDN 
