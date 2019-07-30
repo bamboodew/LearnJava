@@ -110,3 +110,15 @@ panel.setBorder(titleBorder1);
 来源：CSDN 
 原文：https://blog.csdn.net/Mv8Yang/article/details/45566097 
 版权声明：本文为博主原创文章，转载请附上博文链接！
+
+createTitledBorder(Border border, String title, int titleJustification, int titlePosition, Font titleFont)
+向现有边框添加一个标题，使其具有指定的位置和默认的文本颜色（由当前外观确定）。
+直接在后面再加个字体
+```java
+panel.setBorder(BorderFactory.createTitledBorder(
+BorderFactory.createLineBorder(Color.BLACK,2),
+"用户",
+TitledBorder.CENTER,
+TitledBorder.TOP,
+new java.awt.Font("宋体",0,26)));//宋体，普通，26号字，把中间的0改成1就是加粗
+```
