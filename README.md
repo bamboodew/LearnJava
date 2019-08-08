@@ -122,11 +122,11 @@ createTitledBorder(Border border, String title, int titleJustification, int titl
 直接在后面再加个字体
 ```java
 panel.setBorder(BorderFactory.createTitledBorder(
-BorderFactory.createLineBorder(Color.BLACK,2),
-"用户",
-TitledBorder.CENTER,
-TitledBorder.TOP,
-new java.awt.Font("宋体",0,26)));//宋体，普通，26号字，把中间的0改成1就是加粗
+        BorderFactory.createLineBorder(Color.BLACK,2),
+        "用户",
+        TitledBorder.CENTER,
+        TitledBorder.TOP,
+        new java.awt.Font("宋体",0,26)));//宋体，普通，26号字，把中间的0改成1就是加粗
 ```
 
 ## 8.JAVA_Eclipse_WindowBuilder修改块颜色
