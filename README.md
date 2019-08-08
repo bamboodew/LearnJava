@@ -17,7 +17,7 @@
 
 [8.JAVA_Eclipse_WindowBuilder修改块颜色](https://github.com/bamboodew/LearnJava/blob/master/README.md#8JAVA_Eclipse_WindowBuilder修改块颜色)
 
-[9.表格内容居中](https://github.com/bamboodew/LearnJava/blob/master/README.md#9表格内容居中)
+[9.JTable表格内容居中](https://github.com/bamboodew/LearnJava/blob/master/README.md#9Jtable表格内容居中)
 
 
 
@@ -134,7 +134,7 @@ opaque改为true
 foreground：字体颜色
 background：背景颜色
 
-## 9.表格内容居中
+## 9.JTable表格内容居中
 ```java
 DefaultTableCellRenderer r = new DefaultTableCellRenderer();   
 r.setHorizontalAlignment(JLabel.CENTER);   
