@@ -19,6 +19,8 @@
 
 [9.JTable表格内容居中](https://github.com/bamboodew/LearnJava/blob/master/README.md#9Jtable表格内容居中)
 
+[10.数组遍历方法](https://github.com/bamboodew/LearnJava/blob/master/README.md#10数组遍历方法)
+
 
 
 
@@ -139,4 +141,15 @@ background：背景颜色
 DefaultTableCellRenderer r = new DefaultTableCellRenderer();   
 r.setHorizontalAlignment(JLabel.CENTER);   
 table.setDefaultRenderer(Object.class, r);
+```
+
+## 10.数组遍历方法
+
+```java
+// 数组名.foreach（局部变量名 -> 执行语句）
+countryList.forEach(item -> System.out.println(item.getCode()));
+// for (元素类名 局部变量 : 数组名) {执行语句}
+for (Country country : countryList) {
+    System.out.println("代号为" + country.getCode() + "位于" + country.getContinent() + "洲的" + country.getName() + "有人口" + country.getPopulation());
+}
 ```
